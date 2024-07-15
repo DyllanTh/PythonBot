@@ -42,4 +42,4 @@ async def logout(ctx):
     await ctx.send("Logging out...")
     await client.logout()
 
-client.run('MTIzNDk2MTg1Mjc4MjYwODUwNg.G40bRy.UB8mGp9vpbjIktiDLMzTEHjSsp0Q9HeXutQunU')
+client.run('DISCORD_BOT_TOKEN')
